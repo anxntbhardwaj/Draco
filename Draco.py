@@ -21,7 +21,7 @@ def to(s):
         sys.stdout.flush()
         time.sleep(0.01)
 
-to(pyfiglet.figlet_format('DDoS Tool'))
+to(pyfiglet.figlet_format('Draco'))
 print(G + "                 by @anxntbhardwaj\n")
 
 # Open Instagram link
